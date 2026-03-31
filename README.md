@@ -30,4 +30,3 @@ The goal is to extract meaningful insights using complex SQL queries.
 - Admission trends by date and city
 - Patients admitted multiple times for the same condition
 
-## 📁 Repository Structure
